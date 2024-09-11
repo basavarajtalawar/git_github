@@ -1,7 +1,4 @@
 This is the second file in the repo
 This file contains 2 lines
 
-******
 This modification was made inside the experimental branch.
-This won't be visible in the master branch.
-******
