@@ -1,1 +1,2 @@
 This is a file with one line in it.
+One more line is added for the demo.
