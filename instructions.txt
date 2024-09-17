@@ -1,0 +1,9 @@
+1. fork this repo / clone this repo
+2. modify participants.txt
+3. add your name at the end of the file.
+4. Commit changes with a message.
+5. Create a pull request.
+
+--- for the maintainer ---
+1. Watch for PRs 
+2. Merge PRs
